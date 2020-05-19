@@ -1,0 +1,20 @@
+Bir otomobilin bir markaya bağlı olarak üretilmesini ve temel işlevleri gerçekleştirebilmesini sağlayan programı yazınız.
+
+*Bir otomobil markasının özelliklerini ve fonksiyonlarını tutacak olan değişken ve fonksiyonlarını tutan temel sınıf oluşturun.
+
+*Otomobil markasının fabrikadan çıkışında varsayılan özelliklerine sahip olmasını sağlayan yapıcı metod oluşturun.
+
+*Bir otomobilde bulunabilecek ortak fonksiyonları belirleyip hazırlayınız. (En az 3 adet)
+
+* Her üretilen otomobile 40 litre yakıt otomatik eklenmesini sağlayınız. 
+
+*Belirlediğiniz markanın sınıfında bir aracın hareketinin adımlarını tanımlayan araç çalıştırma, otomatik için otomatik vites değiştirme, düz vitesli araçlar için de hızın artabilmesi için ve vitesi değiştirebilmesi için debriaja basma olayını kontrol eden fonksiyonları hazırlayınız.
+
+*Oluşturduğunuz markadan kalıtım alacak benzinli ve dizel birer otomobil model sınıfı oluşturunuz. (Benzinli,Dizel)
+
+*Oluşturulan otomobil modeline özel bulunabilecek fonksiyonları belirleyip hazırlayınız.
+
+*Oluşan benzinli veya dizel aracın gittiği km'ye göre deposında bulunan yakıtın takip edilebilmesi için fonksiyon oluşturun. 
+
+*Metodların çağrılacağı ve dışarıdan alınacak değerler için main metoduna sahip bir sınıf oluşturun.
+
