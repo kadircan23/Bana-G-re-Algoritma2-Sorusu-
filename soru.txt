@@ -6,7 +6,7 @@ Bir otomobilin bir markaya bağlı olarak üretilmesini ve temel işlevleri ger�
 
 *Bir otomobilde bulunabilecek ortak fonksiyonları belirleyip hazırlayınız. (En az 3 adet)
 
-* Her üretilen otomobile 40 litre yakıt otomatik eklenmesini sağlayınız. 
+*Her üretilen otomobile 40 litre yakıt otomatik eklenmesini sağlayınız. 
 
 *Belirlediğiniz markanın sınıfında bir aracın hareketinin adımlarını tanımlayan araç çalıştırma, otomatik için otomatik vites değiştirme, düz vitesli araçlar için de hızın artabilmesi için ve vitesi değiştirebilmesi için debriaja basma olayını kontrol eden fonksiyonları hazırlayınız.
 
